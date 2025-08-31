@@ -2,8 +2,8 @@
 
 **Credits:**
 
-“<Track Title>” by <Creator Name> — CC BY-NC-SA 4.0
-Link: [insert source URL]
+“<Track Title>” by <Creator Name> — CC BY-NC-SA 4.0 <br>
+Link: [insert source URL] <br>
 
 <h2>Downloaded and credits:</h2>
 **Background Music Choices:** <br>
